@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ffffff; /* Sumpoorna white background */
+  color: #333333; /* Dark text jyamule white var vyavasthit disel */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
